@@ -1,17 +1,17 @@
-# @winjs-dev/biome-config-win
+# @winner-fed/biome-config-win
 
-Win 团队的 Biome 共享配置，提供统一的代码格式化和检查规则。
+团队的 Biome 共享配置，提供统一的代码格式化和检查规则。
 
 ## 安装
 
 ```bash
-npm install --save-dev @winjs-dev/biome-config-win @biomejs/biome
+npm install --save-dev @winner-fed/biome-config-win @biomejs/biome
 ```
 
 或使用 pnpm:
 
 ```bash
-pnpm add -D @winjs-dev/biome-config-win @biomejs/biome
+pnpm add -D @winner-fed/biome-config-win @biomejs/biome
 ```
 
 ## 使用方法
@@ -21,7 +21,7 @@ pnpm add -D @winjs-dev/biome-config-win @biomejs/biome
 ```json
 {
   "$schema": "https://biomejs.dev/schemas/2.0.0/schema.json",
-  "extends": ["@winjs-dev/biome-config-win"]
+  "extends": ["@winner-fed/biome-config-win"]
 }
 ```
 
@@ -65,4 +65,3 @@ pnpm add -D @winjs-dev/biome-config-win @biomejs/biome
 ## License
 
 MIT © winjs-dev
-

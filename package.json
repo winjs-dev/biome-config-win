@@ -1,5 +1,5 @@
 {
-  "name": "@winjs-dev/biome-config-win",
+  "name": "@winner-fed/biome-config-win",
   "version": "1.0.0",
   "description": "WinJS 的 Biome 共享配置",
   "main": "biome.json",
