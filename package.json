@@ -23,8 +23,18 @@
   "files": [
     "biome.json"
   ],
+  "scripts": {
+    "bump": "bumpp"
+  },
+  "devDependencies": {
+    "bumpp": "10.2.3"
+  },
   "peerDependencies": {
     "@biomejs/biome": ">=2.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
 
