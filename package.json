@@ -1,0 +1,30 @@
+{
+  "name": "@winjs-dev/biome-config-win",
+  "version": "1.0.0",
+  "description": "WinJS 的 Biome 共享配置",
+  "main": "biome.json",
+  "keywords": [
+    "biome",
+    "config",
+    "formatter",
+    "linter",
+    "winjs"
+  ],
+  "author": "winjs-dev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winjs-dev/biome-config-win.git"
+  },
+  "bugs": {
+    "url": "https://github.com/winjs-dev/biome-config-win/issues"
+  },
+  "homepage": "https://github.com/winjs-dev/biome-config-win#readme",
+  "files": [
+    "biome.json"
+  ],
+  "peerDependencies": {
+    "@biomejs/biome": ">=2.0.0"
+  }
+}
+
