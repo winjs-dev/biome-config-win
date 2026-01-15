@@ -27,7 +27,7 @@
     "bump": "bumpp"
   },
   "devDependencies": {
-    "bumpp": "10.2.3"
+    "bumpp": "10.4.0"
   },
   "peerDependencies": {
     "@biomejs/biome": ">=2.0.0"
